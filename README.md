@@ -2,7 +2,21 @@
 ## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 ## Algorithm:
-### Step1:
+### Step 1:
+Start the C# program in visual studio 2022.
+### Step 2:
+Declare a Jagged Array for four element.
+### Step 3:
+Initialize the elements.
+
+### Step 4:
+Accessing the elements.
+
+
+### Step 5:
+Finish the program and Run the prgram
+### Step 6:
+Take the screenshot of the output of the program. 
 
 
 ## Program:
@@ -36,6 +50,7 @@ class CPUactivity
 }
 ```
 ## Output:
+![image](https://user-images.githubusercontent.com/94164665/167243061-2ba23e79-d9da-4ae0-8135-887cb776cf91.png)
 
 ## Result:
 Thus, the C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
